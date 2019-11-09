@@ -2,6 +2,6 @@
 
 This uses AWS and ReactJS
 
-#Technologies used
+## Technologies used
 Git and github
 SSH
